@@ -1,3 +1,5 @@
+> 有同学反馈说清单内容较多，一次无法读完，过了一段时间回来就记不清阅读进度了。为了便于大家分次阅读，我制作了一个页面，在每篇文章前加上选择框（选中checkbox表示已读）用于记录你已经读过的文章，便于下次回来时继续阅读。页面链接：[Frontend Tech List](https://alienzhou.github.io/frontend-tech-list/)
+
 # 前端技术清单
 
 学习文章的知识往往是碎片化的。而前端涉及到的面很广，这些知识如果不进行有效梳理，则无法相互串联、形成体系。因此，我结合工作体会将抽象出了一些前端基础能力，并将看过、写过的一些不错的文章进行整理，形成了一份（纯）前端技术清单。
@@ -86,7 +88,6 @@
 
 - [You-Need-to-Know-CSS](https://lhammer.cn/You-need-to-know-css/#/)
 - [CSS布局指南](https://juejin.im/post/5b3b56a1e51d4519646204bb)
-- [在 (S)CSS 中实现主题功能的 4½ 种方法 \[英\]](https://speakerdeck.com/csswizardry/4half-methods-for-theming-in-s-css)
 - [CSS 中的各类换行处理方式 \[英\]](https://css-tricks.com/where-lines-break-is-complicated-heres-all-the-related-css-and-html/)：处理经典的换行问题
 - [浏览器将rem转成px时有精度误差怎么办？](https://www.zhihu.com/question/264372456)
 - [精准操控的滚动体验，浅谈新标准 Scroll Snap](https://juejin.im/post/5ba079e86fb9a05d1227fddb)
@@ -94,6 +95,7 @@
 - [巧用 CSS Grid 来创建横向滚动容器 \[英\]](https://uxdesign.cc/creating-horizontal-scrolling-containers-the-right-way-css-grid-c256f64fc585)
 - [如何处理内联元素中的空隙 \[英\]](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
 - [CSS Stacking Context 里那些鲜为人知的坑](https://segmentfault.com/a/1190000002783265)
+- [在 (S)CSS 中实现主题功能的 4½ 种方法](https://juejin.im/post/5c0feb3bf265da616d5409a5)
 
 ### 1.3. 浏览器
 
@@ -301,6 +303,7 @@
     - [3. diff算法](https://github.com/hujiulong/blog/issues/6)
     - [4. 异步的setState](https://github.com/hujiulong/blog/issues/7)
 - [「react技术栈」单页应用实践快速入门](https://www.jianshu.com/p/0b2acb50f321)
+- [React 生命周期图示](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 
 ### 6.2. Vue
 
